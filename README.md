@@ -9,5 +9,6 @@ Problem 3  - Longest substring without repeating characters
 Problem 4  - Median of Two Sorted Arrays
 Problem 26 - Remove Duplicates from Sorted Array
 Problem 27 – Remove Element
+Problem 83 - Remove Duplicates from Sorted List
 Problem 94 - Binary Tree Inorder Traversal
 

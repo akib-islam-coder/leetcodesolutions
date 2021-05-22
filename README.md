@@ -10,6 +10,7 @@ Problem 4  - Median of Two Sorted Arrays
 Problem 21 - Merge Two Sorted Lists
 Problem 26 - Remove Duplicates from Sorted Array
 Problem 27 – Remove Element
+Problem 35 - Search Insert Position
 Problem 83 - Remove Duplicates from Sorted List
 Problem 94 - Binary Tree Inorder Traversal
 Problem 125 - Valid Palindrome

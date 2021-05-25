@@ -17,6 +17,7 @@ Problem 104 - Maximum Depth of Binary Tree
 Problem 125 - Valid Palindrome
 Problem 141 - Linkedlist cycle
 Problem 203 - Remove Linked List Elements
+Problem 206 - Reverse Linked List
 Problem 237 - Delete Node in a Linked List
 Problem 876 - Middle of the Linked List
 Problem 1290- Convert Binary Number in a Linked List to Integer

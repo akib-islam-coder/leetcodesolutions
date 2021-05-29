@@ -21,6 +21,7 @@ Problem 203 - Remove Linked List Elements
 Problem 206 - Reverse Linked List
 Problem 234 - Palindrome Linked List
 Problem 237 - Delete Node in a Linked List
+Problem 617 - Merge Two Binary Trees
 Problem 876 - Middle of the Linked List
 Problem 1108- Defanging an IP Address
 Problem 1290- Convert Binary Number in a Linked List to Integer

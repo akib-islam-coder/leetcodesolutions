@@ -32,4 +32,5 @@ Problem 1669- Merge In Between Linked Lists
 Problem 1678- Goal Parser Interpretation
 Problem 1721- Swapping Nodes in a Linked List
 Problem 1773- Count Items Matching a Rule
+Problem 1832- Check if the Sentence Is Pangram
 

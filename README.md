@@ -26,6 +26,7 @@ Problem 817 - Linked List Components
 Problem 876 - Middle of the Linked List
 Problem 1019- Next Greater Node In Linked List
 Problem 1108- Defanging an IP Address
+Problem 1221- Split a string in balanced strings 
 Problem 1290- Convert Binary Number in a Linked List to Integer
 Problem 1669- Merge In Between Linked Lists
 Problem 1678- Goal Parser Interpretation

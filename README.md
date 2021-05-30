@@ -18,6 +18,7 @@ Problem 104 - Maximum Depth of Binary Tree
 Problem 125 - Valid Palindrome
 Problem 141 - Linkedlist cycle
 Problem 144 - Binary Tree Preorder Traversal
+Problem 145 - Binary Tree Postorder Traversal
 Problem 160 - Intersection of Two Linked Lists
 Problem 203 - Remove Linked List Elements
 Problem 206 - Reverse Linked List

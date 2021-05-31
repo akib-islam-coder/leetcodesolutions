@@ -28,6 +28,7 @@ Problem 617 - Merge Two Binary Trees
 Problem 817 - Linked List Components
 Problem 876 - Middle of the Linked List
 Problem 1019- Next Greater Node In Linked List
+Problem 1022- Sum of Root to Leaf Binary Numbers
 Problem 1108- Defanging an IP Address
 Problem 1221- Split a string in balanced strings 
 Problem 1290- Convert Binary Number in a Linked List to Integer

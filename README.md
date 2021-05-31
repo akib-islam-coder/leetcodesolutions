@@ -28,6 +28,7 @@ Problem 404 - Sum of Left Leaves
 Problem 617 - Merge Two Binary Trees
 Problem 817 - Linked List Components
 Problem 876 - Middle of the Linked List
+Problem 938 - Range Sum of BST
 Problem 1019- Next Greater Node In Linked List
 Problem 1022- Sum of Root to Leaf Binary Numbers
 Problem 1108- Defanging an IP Address

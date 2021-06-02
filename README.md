@@ -35,6 +35,7 @@ Problem 1022- Sum of Root to Leaf Binary Numbers
 Problem 1108- Defanging an IP Address
 Problem 1221- Split a string in balanced strings 
 Problem 1290- Convert Binary Number in a Linked List to Integer
+Problem 1302- Deepest Leaves Sum
 Problem 1669- Merge In Between Linked Lists
 Problem 1678- Goal Parser Interpretation
 Problem 1721- Swapping Nodes in a Linked List

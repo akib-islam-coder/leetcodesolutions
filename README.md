@@ -15,6 +15,7 @@ Problem 35 - Search Insert Position
 Problem 83 - Remove Duplicates from Sorted List
 Problem 94 - Binary Tree Inorder Traversal
 Problem 104 - Maximum Depth of Binary Tree
+Problem 111 - Minimum Depth of Binary Tree
 Problem 125 - Valid Palindrome
 Problem 141 - Linkedlist cycle
 Problem 144 - Binary Tree Preorder Traversal

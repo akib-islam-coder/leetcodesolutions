@@ -30,6 +30,7 @@ Problem 404 - Sum of Left Leaves
 Problem 445 - Add Two Numbers II
 Problem 617 - Merge Two Binary Trees
 Problem 671 - Second Minimum Node In a Binary Tree
+Problem 700 - Search in a binary search tree
 Problem 817 - Linked List Components
 Problem 876 - Middle of the Linked List
 Problem 938 - Range Sum of BST

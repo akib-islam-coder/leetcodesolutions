@@ -1,7 +1,9 @@
 # leetcodesolutions
 This repository will contain solutions of leetcode problems in C language.
 
-Problem Solved - 46/1885
+Leetcode Profile - https://leetcode.com/akibislam/
+
+Problem Solved - 47/1885
 
 Problem Index:
 
@@ -51,4 +53,5 @@ Problem 1678- Goal Parser Interpretation
 Problem 1721- Swapping Nodes in a Linked List
 Problem 1773- Count Items Matching a Rule
 Problem 1832- Check if the Sentence Is Pangram
+Problem 1844- Replace All Digits with Characters
 

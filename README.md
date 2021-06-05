@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 48/1885
+Problem Solved - 49/1885
 
 Problem Index:
 
@@ -55,4 +55,5 @@ Problem 1721- Swapping Nodes in a Linked List
 Problem 1773- Count Items Matching a Rule
 Problem 1832- Check if the Sentence Is Pangram
 Problem 1844- Replace All Digits with Characters
+Problem 1859- Sorting the Sentence
 

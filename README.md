@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 50/1885
+Problem Solved - 51/1885
 
 Problem Index:
 
@@ -13,6 +13,7 @@ Problem 3  - Longest substring without repeating characters
 Problem 4  - Median of Two Sorted Arrays
 Problem 7  - Reverse Integer
 Problem 21 - Merge Two Sorted Lists
+Problem 24 - Swap Nodes in Pairs
 Problem 26 - Remove Duplicates from Sorted Array
 Problem 27 – Remove Element
 Problem 35 - Search Insert Position

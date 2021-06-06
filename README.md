@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 54/1889
+Problem Solved - 55/1889
 
 Problem Index:
 
@@ -17,7 +17,7 @@ Problem 20 - Valid Paranthesis <br />
 Problem 21 - Merge Two Sorted Lists <br />
 Problem 24 - Swap Nodes in Pairs <br />
 Problem 26 - Remove Duplicates from Sorted Array <br />
-Problem 27 – Remove Element <br /> 
+Problem 27 â€“ Remove Element <br /> 
 Problem 35 - Search Insert Position <br />
 Problem 83 - Remove Duplicates from Sorted List <br />
 Problem 94 - Binary Tree Inorder Traversal <br />

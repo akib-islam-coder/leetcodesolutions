@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 52/1885
+Problem Solved - 53/1889
 
 Problem Index:
 
@@ -11,6 +11,7 @@ Problem 1  - Two Sum
 Problem 2  - Add Two Numbers
 Problem 3  - Longest substring without repeating characters
 Problem 4  - Median of Two Sorted Arrays
+Problem 5  - Longest Palindromic Substring
 Problem 7  - Reverse Integer
 Problem 20 - Valid Paranthesis
 Problem 21 - Merge Two Sorted Lists

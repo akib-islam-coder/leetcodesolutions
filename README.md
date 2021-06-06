@@ -53,6 +53,7 @@ Problem 1161- Maximum Level Sum of a Binary Tree <br />
 Problem 1221- Split a string in balanced strings  <br />
 Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1302- Deepest Leaves Sum <br />
+Problem 1470- Shuffle the Array <br />
 Problem 1480- Running Sum of 1d Array <br />
 Problem 1669- Merge In Between Linked Lists <br />
 Problem 1670- Design Front Middle Back Queue <br />

@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 56/1889
+Problem Solved - 58/1889
 
 Problem Index:
 
@@ -57,6 +57,7 @@ Problem 1470- Shuffle the Array <br />
 Problem 1480- Running Sum of 1d Array <br />
 Problem 1669- Merge In Between Linked Lists <br />
 Problem 1670- Design Front Middle Back Queue <br />
+Problem 1672- Richest Customer Wealth <br />
 Problem 1678- Goal Parser Interpretation <br />
 Problem 1721- Swapping Nodes in a Linked List <br />
 Problem 1773- Count Items Matching a Rule <br />

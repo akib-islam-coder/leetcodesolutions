@@ -3,15 +3,15 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 53/1889
+Problem Solved - 54/1889
 
 Problem Index:
 
-Problem 1  - Two Sum
-Problem 2  - Add Two Numbers
-Problem 3  - Longest substring without repeating characters
-Problem 4  - Median of Two Sorted Arrays
-Problem 5  - Longest Palindromic Substring
+Problem 1  - Two Sum <br />
+Problem 2  - Add Two Numbers <br />
+Problem 3  - Longest substring without repeating characters <br />
+Problem 4  - Median of Two Sorted Arrays <br />
+Problem 5  - Longest Palindromic Substring <br />
 Problem 7  - Reverse Integer
 Problem 20 - Valid Paranthesis
 Problem 21 - Merge Two Sorted Lists
@@ -41,6 +41,7 @@ Problem 617 - Merge Two Binary Trees
 Problem 671 - Second Minimum Node In a Binary Tree
 Problem 700 - Search in a binary search tree
 Problem 709 - To Lower Case
+Probelm 725 - Split LinkedList in Parts
 Problem 817 - Linked List Components
 Problem 876 - Middle of the Linked List
 Problem 938 - Range Sum of BST

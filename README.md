@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 66/1889
+Problem Solved - 67/1889
 
 Problem Index:
 
@@ -26,6 +26,7 @@ Problem 104 - Maximum Depth of Binary Tree <br />
 Problem 111 - Minimum Depth of Binary Tree <br />
 Problem 112 - Path Sum <br />
 Problem 125 - Valid Palindrome <br />
+Problem 129 - Sum Root to Leaf Numbers <br />
 Problem 141 - Linkedlist cycle <br />
 Problem 144 - Binary Tree Preorder Traversal <br />
 Problem 145 - Binary Tree Postorder Traversal <br />

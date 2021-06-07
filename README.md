@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 62/1889
+Problem Solved - 63/1889
 
 Problem Index:
 
@@ -48,6 +48,7 @@ Problem 817 - Linked List Components <br />
 Problem 876 - Middle of the Linked List <br />
 Problem 938 - Range Sum of BST <br />
 Problem 1019- Next Greater Node In Linked List <br />
+Problem 1021- Remove Outermost Parentheses <br />
 Problem 1022- Sum of Root to Leaf Binary Numbers <br />
 Problem 1108- Defanging an IP Address <br />
 Problem 1161- Maximum Level Sum of a Binary Tree <br />

@@ -55,8 +55,9 @@ Problem 1161- Maximum Level Sum of a Binary Tree <br />
 Problem 1221- Split a string in balanced strings  <br />
 Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1302- Deepest Leaves Sum <br />
+Problem 1313- Decompress Run-Length Encoded List <br />
 Problem 1342- Number of steps to reduce a number to zero <br />
-1365. How Many Numbers Are Smaller Than the Current Number <br />
+Problem 1365. How Many Numbers Are Smaller Than the Current Number <br />
 Problem 1431- Kids With the Greatest Number of Candies <br />
 Problem 1470- Shuffle the Array <br />
 Problem 1480- Running Sum of 1d Array <br />

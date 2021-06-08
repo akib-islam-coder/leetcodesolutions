@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 70/1889
+Problem Solved - 71/1889
 
 Problem Index:
 
@@ -45,7 +45,8 @@ Problem 637 - Average of Levels in Binary Tree <br />
 Problem 671 - Second Minimum Node In a Binary Tree <br />
 Problem 700 - Search in a binary search tree <br />
 Problem 709 - To Lower Case <br />
-Probelm 725 - Split LinkedList in Parts <br />
+Problem 725 - Split LinkedList in Parts <br />
+Problem 771 - Jewels and Stones <br />
 Problem 817 - Linked List Components <br />
 Problem 876 - Middle of the Linked List <br />
 Problem 938 - Range Sum of BST <br />

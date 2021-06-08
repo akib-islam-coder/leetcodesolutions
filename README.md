@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 69/1889
+Problem Solved - 70/1889
 
 Problem Index:
 
@@ -60,7 +60,8 @@ Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1302- Deepest Leaves Sum <br />
 Problem 1313- Decompress Run-Length Encoded List <br />
 Problem 1342- Number of steps to reduce a number to zero <br />
-Problem 1365. How Many Numbers Are Smaller Than the Current Number <br />
+Problem 1365- How Many Numbers Are Smaller Than the Current Number <br />
+Problem 1389- Create Target Array in a given order <br />
 Problem 1431- Kids With the Greatest Number of Candies <br />
 Problem 1470- Shuffle the Array <br />
 Problem 1480- Running Sum of 1d Array <br />

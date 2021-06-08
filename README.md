@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 71/1889
+Problem Solved - 72/1889
 
 Problem Index:
 
@@ -57,6 +57,7 @@ Problem 1022- Sum of Root to Leaf Binary Numbers <br />
 Problem 1108- Defanging an IP Address <br />
 Problem 1161- Maximum Level Sum of a Binary Tree <br />
 Problem 1221- Split a string in balanced strings  <br />
+Problem 1281- Subtract the Product and Sum of Digits of an Integer
 Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1302- Deepest Leaves Sum <br />
 Problem 1313- Decompress Run-Length Encoded List <br />

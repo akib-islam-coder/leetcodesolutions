@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 74/1889
+Problem Solved - 75/1889
 
 Problem Index:
 
@@ -76,6 +76,7 @@ Problem 1669- Merge In Between Linked Lists <br />
 Problem 1670- Design Front Middle Back Queue <br />
 Problem 1672- Richest Customer Wealth <br />
 Problem 1678- Goal Parser Interpretation <br />
+Problem 1684- Count the Number of Consistent Strings  <br />
 Problem 1721- Swapping Nodes in a Linked List <br />
 Problem 1773- Count Items Matching a Rule <br />
 Problem 1832- Check if the Sentence Is Pangram <br />

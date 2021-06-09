@@ -68,6 +68,7 @@ Problem 1431- Kids With the Greatest Number of Candies <br />
 Problem 1470- Shuffle the Array <br />
 Problem 1480- Running Sum of 1d Array <br />
 Problem 1512- Number of Good Pairs <br />
+Problem 1528- Shuffle String <br />
 Problem 1662- Check If Two String Arrays are Equivalent <br />
 Problem 1669- Merge In Between Linked Lists <br />
 Problem 1670- Design Front Middle Back Queue <br />

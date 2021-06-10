@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 79/1891
+Problem Solved - 80/1891
 
 Problem Index:
 
@@ -83,6 +83,7 @@ Problem 1678- Goal Parser Interpretation <br />
 Problem 1684- Count the Number of Consistent Strings  <br />
 Problem 1721- Swapping Nodes in a Linked List <br />
 Problem 1773- Count Items Matching a Rule <br />
+Problem 1816- Truncate Sentence <br />
 Problem 1832- Check if the Sentence Is Pangram <br />
 Problem 1844- Replace All Digits with Characters <br />
 Problem 1859- Sorting the Sentence <br />

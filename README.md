@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 77/1891
+Problem Solved - 78/1891
 
 Problem Index:
 
@@ -53,6 +53,7 @@ Problem 771 - Jewels and Stones <br />
 Problem 817 - Linked List Components <br />
 Problem 876 - Middle of the Linked List <br />
 Problem 938 - Range Sum of BST <br />
+Problem 965 - Univalued Binary Tree <br />
 Problem 993 - Cousins in a binary tree <br />
 Problem 1019- Next Greater Node In Linked List <br />
 Problem 1021- Remove Outermost Parentheses <br />

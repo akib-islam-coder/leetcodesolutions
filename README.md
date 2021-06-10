@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 76/1889
+Problem Solved - 77/1891
 
 Problem Index:
 
@@ -42,6 +42,7 @@ Problem 404 - Sum of Left Leaves <br />
 Problem 445 - Add Two Numbers II <br />
 Problem 559 - Maximum Depth of N-ary Tree <br />
 Problem 589 - N-ary Tree Preorder Traversal <br />
+Problem 590 - N-ary Tree Postorder Traversal <br />
 Problem 617 - Merge Two Binary Trees <br />
 Problem 637 - Average of Levels in Binary Tree <br />
 Problem 671 - Second Minimum Node In a Binary Tree <br />

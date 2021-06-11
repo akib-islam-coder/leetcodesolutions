@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 80/1891
+Problem Solved - 81/1891
 
 Problem Index:
 
@@ -81,6 +81,7 @@ Problem 1670- Design Front Middle Back Queue <br />
 Problem 1672- Richest Customer Wealth <br />
 Problem 1678- Goal Parser Interpretation <br />
 Problem 1684- Count the Number of Consistent Strings  <br />
+Problem 1704- Determine if String Halves Are Alike  <br />
 Problem 1721- Swapping Nodes in a Linked List <br />
 Problem 1773- Count Items Matching a Rule <br />
 Problem 1816- Truncate Sentence <br />

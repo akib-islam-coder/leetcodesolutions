@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 81/1891
+Problem Solved - 82/1891
 
 Problem Index:
 
@@ -52,6 +52,7 @@ Problem 709 - To Lower Case <br />
 Problem 725 - Split LinkedList in Parts <br />
 Problem 771 - Jewels and Stones <br />
 Problem 817 - Linked List Components <br />
+Problem 872 - Leaf-Similar Trees <br />
 Problem 876 - Middle of the Linked List <br />
 Problem 938 - Range Sum of BST <br />
 Problem 965 - Univalued Binary Tree <br />

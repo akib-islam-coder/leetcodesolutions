@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 84/1891
+Problem Solved - 85/1891
 
 Problem Index:
 
@@ -22,6 +22,7 @@ Problem 35 - Search Insert Position <br />
 Problem 83 - Remove Duplicates from Sorted List <br />
 Problem 86 - Partition List <br />
 Problem 94 - Binary Tree Inorder Traversal <br />
+Problem 100 - Same Tree <br />
 Problem 104 - Maximum Depth of Binary Tree <br />
 Problem 111 - Minimum Depth of Binary Tree <br />
 Problem 112 - Path Sum <br />

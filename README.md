@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 83/1891
+Problem Solved - 84/1891
 
 Problem Index:
 
@@ -67,6 +67,7 @@ Problem 1221- Split a string in balanced strings  <br />
 Problem 1281- Subtract the Product and Sum of Digits of an Integer <br />
 Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1302- Deepest Leaves Sum <br />
+Problem 1309- Decrypt String from Alphabet to Integer Mapping <br />
 Problem 1313- Decompress Run-Length Encoded List <br />
 Problem 1342- Number of steps to reduce a number to zero <br />
 Problem 1365- How Many Numbers Are Smaller Than the Current Number <br />

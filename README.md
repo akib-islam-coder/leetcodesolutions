@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 92/1891
+Problem Solved - 93/1891
 
 Problem Index:
 
@@ -26,6 +26,7 @@ Problem 100 - Same Tree <br />
 Problem 101 - Symmetric Tree
 Problem 102 - Binary Tree Level Order Traversal <br />
 Problem 104 - Maximum Depth of Binary Tree <br />
+Problem 110 - Balanced Binary Tree <br />
 Problem 111 - Minimum Depth of Binary Tree <br />
 Problem 112 - Path Sum <br />
 Problem 113 - Path Sum II <br />

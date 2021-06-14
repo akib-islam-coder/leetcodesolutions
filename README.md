@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 91/1891
+Problem Solved - 92/1891
 
 Problem Index:
 
@@ -49,6 +49,7 @@ Problem 445 - Add Two Numbers II <br />
 Problem 543 - Diameter of Binary Tree <br />
 Problem 559 - Maximum Depth of N-ary Tree <br />
 Problem 563 - Binary Tree Tilt  <br />
+Problem 572 - Subtree of Another Tree <br />
 Problem 589 - N-ary Tree Preorder Traversal <br />
 Problem 590 - N-ary Tree Postorder Traversal <br />
 Problem 617 - Merge Two Binary Trees <br />

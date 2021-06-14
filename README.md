@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 93/1891
+Problem Solved - 94/1891
 
 Problem Index:
 
@@ -78,6 +78,7 @@ Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1302- Deepest Leaves Sum <br />
 Problem 1309- Decrypt String from Alphabet to Integer Mapping <br />
 Problem 1313- Decompress Run-Length Encoded List <br />
+Probelm 1315- Sum of Nodes with Even-Valued Grandparent <br />
 Problem 1342- Number of steps to reduce a number to zero <br />
 Problem 1365- How Many Numbers Are Smaller Than the Current Number <br />
 Problem 1389- Create Target Array in a given order <br />

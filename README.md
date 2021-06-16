@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 95/1891
+Problem Solved - 96/1891
 
 Problem Index:
 
@@ -88,6 +88,7 @@ Problem 1470- Shuffle the Array <br />
 Problem 1480- Running Sum of 1d Array <br />
 Problem 1512- Number of Good Pairs <br />
 Problem 1528- Shuffle String <br />
+Problem 1588- Sum of All Odd Length Subarrays  <br />
 Problem 1614- Maximum Nesting Depth of the Parentheses <br />
 Problem 1662- Check If Two String Arrays are Equivalent <br />
 Problem 1669- Merge In Between Linked Lists <br />

@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 98/1891
+Problem Solved - 99/1891
 
 Problem Index:
 
@@ -72,6 +72,7 @@ Problem 1019- Next Greater Node In Linked List <br />
 Problem 1021- Remove Outermost Parentheses <br />
 Problem 1022- Sum of Root to Leaf Binary Numbers <br />
 Problem 1108- Defanging an IP Address <br />
+Problem 1104- Path In Zigzag Labelled Binary Tree  <br />
 Problem 1161- Maximum Level Sum of a Binary Tree <br />
 Problem 1221- Split a string in balanced strings  <br />
 Problem 1281- Subtract the Product and Sum of Digits of an Integer <br />

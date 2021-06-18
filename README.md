@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 104/1891
+Problem Solved - 105/1891
 
 Problem Index:
 
@@ -33,6 +33,7 @@ Problem 113 - Path Sum II <br />
 Problem 125 - Valid Palindrome <br />
 Problem 129 - Sum Root to Leaf Numbers <br />
 Problem 141 - Linkedlist cycle <br />
+Problem 142 - Linked List Cycle II <br />
 Problem 144 - Binary Tree Preorder Traversal <br />
 Problem 145 - Binary Tree Postorder Traversal <br />
 Problem 160 - Intersection of Two Linked Lists <br />

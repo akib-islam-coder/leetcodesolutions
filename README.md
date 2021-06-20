@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 109/1891
+Problem Solved - 110/1891
 
 Problem Index:
 
@@ -63,6 +63,7 @@ Problem 700 - Search in a binary search tree <br />
 Problem 709 - To Lower Case <br />
 Problem 725 - Split LinkedList in Parts <br />
 Problem 771 - Jewels and Stones <br />
+Problem 804 - Unique Morse Code Words <br />
 Problem 817 - Linked List Components <br />
 Problem 832 - Flipping an Image  <br />
 Problem 872 - Leaf-Similar Trees <br />

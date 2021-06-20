@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 110/1891
+Problem Solved - 111/1891
 
 Problem Index:
 
@@ -81,6 +81,7 @@ Problem 1108- Defanging an IP Address <br />
 Problem 1104- Path In Zigzag Labelled Binary Tree  <br />
 Problem 1161- Maximum Level Sum of a Binary Tree <br />
 Problem 1221- Split a string in balanced strings  <br />
+Problem 1252- Cells with Odd Values in a Matrix  <br />
 Problem 1281- Subtract the Product and Sum of Digits of an Integer <br />
 Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1295- Find Numbers with Even Number of Digits  <br />

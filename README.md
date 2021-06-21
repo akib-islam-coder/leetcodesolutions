@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 114/1891
+Problem Solved - 115/1891
 
 Problem Index:
 
@@ -87,6 +87,7 @@ Problem 1281- Subtract the Product and Sum of Digits of an Integer <br />
 Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1295- Find Numbers with Even Number of Digits  <br />
 Problem 1302- Deepest Leaves Sum <br />
+Problem 1304- Find N Unique Integers Sum up to Zero	<br />
 Problem 1309- Decrypt String from Alphabet to Integer Mapping <br />
 Problem 1313- Decompress Run-Length Encoded List <br />
 Problem 1315- Sum of Nodes with Even-Valued Grandparent <br />

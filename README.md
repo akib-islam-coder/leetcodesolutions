@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 122/1891
+Problem Solved - 123/1891
 
 Problem Index:
 
@@ -71,6 +71,7 @@ Problem 817 - Linked List Components <br />
 Problem 832 - Flipping an Image  <br />
 Problem 872 - Leaf-Similar Trees <br />
 Problem 876 - Middle of the Linked List <br />
+Problem 905 - Sort Array By Parity   <br />
 Problem 938 - Range Sum of BST <br />
 Problem 965 - Univalued Binary Tree <br />
 Problem 993 - Cousins in a binary tree <br />

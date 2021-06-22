@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 123/1891
+Problem Solved - 124/1891
 
 Problem Index:
 
@@ -108,6 +108,7 @@ Problem 1450- Number of Students Doing Homework at a Given Time   <br />
 Problem 1456- Maximum Number of Vowels in a Substring of Given Length  <br />
 Problem 1464- Maximum Product of Two Elements in an Array   <br />
 Problem 1470- Shuffle the Array <br />
+Problem 1475- Final Prices With a Special Discount in a Shop <br />
 Problem 1480- Running Sum of 1d Array <br />
 Problem 1512- Number of Good Pairs <br />
 Problem 1528- Shuffle String <br />

@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 124/1891
+Problem Solved - 125/1891
 
 Problem Index:
 
@@ -47,6 +47,7 @@ Problem 237 - Delete Node in a Linked List <br />
 Problem 257 - Binary Tree Paths <br />
 Problem 328	- Odd Even Linked List <br />
 Problem 404 - Sum of Left Leaves <br />
+Problem 424 - Longest Repeating Character Replacement	<br />
 Problem 429 - N-ary Tree Level Order Traversal  <br />
 Problem 445 - Add Two Numbers II <br />
 Problem 450 - Delete Node in a BST  <br />

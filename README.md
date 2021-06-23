@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 125/1891
+Problem Solved - 126/1891
 
 Problem Index:
 
@@ -51,6 +51,7 @@ Problem 424 - Longest Repeating Character Replacement	<br />
 Problem 429 - N-ary Tree Level Order Traversal  <br />
 Problem 445 - Add Two Numbers II <br />
 Problem 450 - Delete Node in a BST  <br />
+Problem 496 - Next Greater Element I  <br />
 Problem 543 - Diameter of Binary Tree <br />
 Problem 559 - Maximum Depth of N-ary Tree <br />
 Problem 563 - Binary Tree Tilt  <br />

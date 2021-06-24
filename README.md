@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 129/1891
+Problem Solved - 130/1891
 
 Problem Index:
 
@@ -59,6 +59,7 @@ Problem 563 - Binary Tree Tilt  <br />
 Problem 572 - Subtree of Another Tree <br />
 Problem 589 - N-ary Tree Preorder Traversal <br />
 Problem 590 - N-ary Tree Postorder Traversal <br />
+Problem 606 - Construct String from Binary Tree  <br />
 Problem 617 - Merge Two Binary Trees <br />
 Problem 637 - Average of Levels in Binary Tree <br />
 Problem 653 - Two Sum IV - Input is a BST  <br />

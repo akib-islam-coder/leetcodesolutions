@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 132/1891
+Problem Solved - 133/1891
 
 Problem Index:
 
@@ -131,8 +131,9 @@ Problem 1678- Goal Parser Interpretation <br />
 Problem 1684- Count the Number of Consistent Strings  <br />
 Problem 1704- Determine if String Halves Are Alike  <br />
 Problem 1721- Swapping Nodes in a Linked List <br />
-Probelm 1725- Number Of Rectangles That Can Form The Largest Square  <br />
-Porbelm 1732- Find the Highest Altitude
+Problem 1725- Number Of Rectangles That Can Form The Largest Square  <br />
+Problem 1732- Find the Highest Altitude  <br />
+Problem 1748- Sum of Unique Elements  <br />
 Problem 1773- Count Items Matching a Rule <br />
 Problem 1816- Truncate Sentence <br />
 Problem 1827- Minimum Operations to Make the Array Increasing <br />

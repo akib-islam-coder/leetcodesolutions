@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 140/1891
+Problem Solved - 141/1891
 
 Problem Index:
 
@@ -91,6 +91,7 @@ Problem 1026- Maximum Difference Between Node and Ancestor  <br />
 Problem 1047- Remove All Adjacent Duplicates In String  <br />
 Problem 1052- Grumpy Bookstore Owner <br />
 Problem 1108- Defanging an IP Address <br />
+Problem 1110- Delete Nodes And Return Forest  <br />
 Problem 1104- Path In Zigzag Labelled Binary Tree  <br />
 Problem 1161- Maximum Level Sum of a Binary Tree <br />
 Problem 1221- Split a string in balanced strings  <br />

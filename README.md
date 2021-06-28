@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 141/1891
+Problem Solved - 142/1891
 
 Problem Index:
 
@@ -82,6 +82,7 @@ Problem 938 - Range Sum of BST <br />
 Problem 961 - N-Repeated Element in Size 2N Array   <br />
 Problem 965 - Univalued Binary Tree <br />
 Problem 993 - Cousins in a binary tree <br />
+Problem 998 - Maximum Binary Tree II  <br />
 Problem 1004- Max Consecutive Ones III  <br />
 Problem 1008- Construct Binary Search Tree from Preorder Traversal  <br />
 Problem 1019- Next Greater Node In Linked List <br />

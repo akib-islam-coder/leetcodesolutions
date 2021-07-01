@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 145/1891
+Problem Solved - 146/1891
 
 Problem Index:
 
@@ -131,6 +131,7 @@ Problem 1480- Running Sum of 1d Array <br />
 Problem 1512- Number of Good Pairs <br />
 Problem 1528- Shuffle String <br />
 Problem 1534- Count Good Triplets <br />
+Problem 1544- Make The String Great  <br />
 Problem 1572- Matrix Diagonal Sum  <br />
 Problem 1588- Sum of All Odd Length Subarrays  <br />
 Problem 1614- Maximum Nesting Depth of the Parentheses <br />

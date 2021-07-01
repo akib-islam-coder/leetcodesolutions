@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 142/1891
+Problem Solved - 143/1891
 
 Problem Index:
 
@@ -90,6 +90,7 @@ Problem 1021- Remove Outermost Parentheses <br />
 Problem 1022- Sum of Root to Leaf Binary Numbers <br />
 Problem 1026- Maximum Difference Between Node and Ancestor  <br />
 Problem 1047- Remove All Adjacent Duplicates In String  <br />
+Problem 1051- Height Checker  <br />
 Problem 1052- Grumpy Bookstore Owner <br />
 Problem 1108- Defanging an IP Address <br />
 Problem 1110- Delete Nodes And Return Forest  <br />

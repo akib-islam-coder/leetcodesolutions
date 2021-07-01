@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 144/1891
+Problem Solved - 145/1891
 
 Problem Index:
 
@@ -21,6 +21,7 @@ Problem 27 – Remove Element <br />
 Problem 35 - Search Insert Position <br />
 Problem 83 - Remove Duplicates from Sorted List <br />
 Problem 86 - Partition List <br />
+Problem 88 - Merge Sorted Array  <br />
 Problem 92 - Reverse Linked List II	<br />
 Problem 94 - Binary Tree Inorder Traversal <br />
 Problem 100 - Same Tree <br />

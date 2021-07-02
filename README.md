@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 150/1891
+Problem Solved - 151/1891
 
 Problem Index:
 
@@ -55,6 +55,7 @@ Problem 437 - Path Sum III   <br />
 Problem 445 - Add Two Numbers II <br />
 Problem 450 - Delete Node in a BST  <br />
 Problem 496 - Next Greater Element I  <br />
+Problem 530 - Minimum Absolute Difference in BST   <br />
 Problem 543 - Diameter of Binary Tree <br />
 Problem 559 - Maximum Depth of N-ary Tree <br />
 Problem 561 - Array Partition I  <br />

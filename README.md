@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 154/1891
+Problem Solved - 155/1891
 
 Problem Index:
 
@@ -87,6 +87,7 @@ Problem 905 - Sort Array By Parity   <br />
 Problem 938 - Range Sum of BST <br />
 Problem 961 - N-Repeated Element in Size 2N Array   <br />
 Problem 965 - Univalued Binary Tree <br />
+Problem 977 - Squares of a Sorted Array  <br />
 Problem 993 - Cousins in a binary tree <br />
 Problem 998 - Maximum Binary Tree II  <br />
 Problem 1004- Max Consecutive Ones III  <br />

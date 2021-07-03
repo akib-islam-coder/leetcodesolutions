@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 156/1891
+Problem Solved - 157/1891
 
 Problem Index:
 
@@ -46,6 +46,7 @@ Problem 203 - Remove Linked List Elements <br />
 Problem 206 - Reverse Linked List <br />
 Problem 226 - Invert Binary Tree <br />
 Problem 234 - Palindrome Linked List <br />
+Problem 235 - Lowest Common Ancestor of a Binary Search Tree   <br />
 Problem 237 - Delete Node in a Linked List <br />
 Problem 257 - Binary Tree Paths <br />
 Problem 328	- Odd Even Linked List <br />

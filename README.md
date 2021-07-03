@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 155/1891
+Problem Solved - 156/1891
 
 Problem Index:
 
@@ -81,6 +81,7 @@ Problem 804 - Unique Morse Code Words <br />
 Problem 814 - Binary Tree Pruning  <br />
 Problem 817 - Linked List Components <br />
 Problem 832 - Flipping an Image  <br />
+Problem 852 - Peak Index in a Mountain Array  <br />
 Problem 872 - Leaf-Similar Trees <br />
 Problem 876 - Middle of the Linked List <br />
 Problem 905 - Sort Array By Parity   <br />

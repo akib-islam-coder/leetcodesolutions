@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 157/1891
+Problem Solved - 158/1891
 
 Problem Index:
 
@@ -127,6 +127,7 @@ Problem 1351- Count Negative Numbers in a Sorted Matrix  <br />
 Problem 1365- How Many Numbers Are Smaller Than the Current Number <br />
 Problem 1367- Linked List in Binary Tree  <br />
 Problem 1389- Create Target Array in a given order <br />
+Problem 1403- Minimum Subsequence in Non-Increasing Order  <br />
 Problem 1431- Kids With the Greatest Number of Candies <br />
 Problem 1441- Build an Array With Stack Operations <br />
 Problem 1448- Count Good Nodes in Binary Tree  <br />

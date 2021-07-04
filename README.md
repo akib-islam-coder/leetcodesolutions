@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 158/1891
+Problem Solved - 159/1891
 
 Problem Index:
 
@@ -124,6 +124,7 @@ Problem 1315- Sum of Nodes with Even-Valued Grandparent <br />
 Problem 1325- Delete Leaves With a Given Value  <br />
 Problem 1342- Number of steps to reduce a number to zero <br />
 Problem 1351- Count Negative Numbers in a Sorted Matrix  <br />
+Problem 1356- Sort Integers by The Number of 1 Bits <br />
 Problem 1365- How Many Numbers Are Smaller Than the Current Number <br />
 Problem 1367- Linked List in Binary Tree  <br />
 Problem 1389- Create Target Array in a given order <br />

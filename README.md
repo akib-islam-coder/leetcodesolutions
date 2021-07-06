@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 167/1891
+Problem Solved - 168/1891
 
 Problem Index:
 
@@ -91,6 +91,7 @@ Problem 876 - Middle of the Linked List <br />
 Problem 905 - Sort Array By Parity   <br />
 Problem 922 - Sort Array By Parity II  <br />
 Problem 938 - Range Sum of BST <br />
+Porblem 944 - Delete Columns to Make Sorted   <br />
 Problem 961 - N-Repeated Element in Size 2N Array   <br />
 Problem 965 - Univalued Binary Tree <br />
 Problem 977 - Squares of a Sorted Array  <br />

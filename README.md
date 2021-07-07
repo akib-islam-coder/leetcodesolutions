@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 174/1891
+Problem Solved - 175/1891
 
 Problem Index:
 
@@ -106,6 +106,7 @@ Problem 1019- Next Greater Node In Linked List <br />
 Problem 1021- Remove Outermost Parentheses <br />
 Problem 1022- Sum of Root to Leaf Binary Numbers <br />
 Problem 1026- Maximum Difference Between Node and Ancestor  <br />
+Problem 1030- Matrix Cells in Distance Order  <br />
 Problem 1038- Binary Search Tree to Greater Sum Tree  <br />
 Problem 1047- Remove All Adjacent Duplicates In String  <br />
 Problem 1051- Height Checker  <br />

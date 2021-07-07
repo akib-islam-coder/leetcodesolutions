@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 175/1891
+Problem Solved - 176/1891
 
 Problem Index:
 
@@ -90,6 +90,7 @@ Problem 852 - Peak Index in a Mountain Array  <br />
 Problem 872 - Leaf-Similar Trees <br />
 Problem 876 - Middle of the Linked List <br />
 Problem 893 - Groups of Special-Equivalent Strings  <br />
+Problem 897 - Increasing Order Search Tree   <br />
 Problem 905 - Sort Array By Parity   <br />
 Problem 922 - Sort Array By Parity II  <br />
 Problem 938 - Range Sum of BST <br />

@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 177/1891
+Problem Solved - 178/1891
 
 Problem Index:
 
@@ -116,6 +116,7 @@ Problem 1052- Grumpy Bookstore Owner <br />
 Problem 1108- Defanging an IP Address <br />
 Problem 1110- Delete Nodes And Return Forest  <br />
 Problem 1104- Path In Zigzag Labelled Binary Tree  <br />
+Problem 1122- Relative Sort Array  <br />
 Problem 1123- Lowest Common Ancestor of Deepest Leaves  <br />
 Problem 1161- Maximum Level Sum of a Binary Tree <br />
 Problem 1207- Unique Number of Occurrences  <br />

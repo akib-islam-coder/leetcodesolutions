@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 179/1891
+Problem Solved - 180/1891
 
 Problem Index:
 
@@ -101,6 +101,7 @@ Problem 965 - Univalued Binary Tree <br />
 Problem 977 - Squares of a Sorted Array  <br />
 Problem 993 - Cousins in a binary tree <br />
 Problem 998 - Maximum Binary Tree II  <br />
+Problem 999 - Available Captures for Rook  <br />
 Problem 1002- Find Common Characters  <br />
 Problem 1004- Max Consecutive Ones III  <br />
 Problem 1008- Construct Binary Search Tree from Preorder Traversal  <br />

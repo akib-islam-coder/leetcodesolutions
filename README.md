@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 182/1891
+Problem Solved - 183/1891
 
 Problem Index:
 
@@ -120,6 +120,7 @@ Problem 1104- Path In Zigzag Labelled Binary Tree  <br />
 Problem 1122- Relative Sort Array  <br />
 Problem 1123- Lowest Common Ancestor of Deepest Leaves  <br />
 Problem 1161- Maximum Level Sum of a Binary Tree <br />
+Problem 1200- Minimum Absolute Difference   <br />
 Problem 1207- Unique Number of Occurrences  <br />
 Problem 1217- Minimum Cost to Move Chips to The Same Position  <br />
 Problem 1221- Split a string in balanced strings  <br />

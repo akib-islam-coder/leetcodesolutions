@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 185/1891
+Problem Solved - 186/1891
 
 Problem Index:
 
@@ -154,6 +154,7 @@ Problem 1441- Build an Array With Stack Operations <br />
 Problem 1448- Count Good Nodes in Binary Tree  <br />
 Problem 1450- Number of Students Doing Homework at a Given Time   <br />
 Problem 1456- Maximum Number of Vowels in a Substring of Given Length  <br />
+Probelm 1457- Pseudo-Palindromic Paths in a Binary Tree  <br />
 Problem 1460- Make Two Arrays Equal by Reversing Sub-arrays   <br />
 Problem 1464- Maximum Product of Two Elements in an Array   <br />
 Problem 1470- Shuffle the Array <br />

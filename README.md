@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 184/1891
+Problem Solved - 185/1891
 
 Problem Index:
 
@@ -183,6 +183,7 @@ Problem 1725- Number Of Rectangles That Can Form The Largest Square  <br />
 Problem 1732- Find the Highest Altitude  <br />
 Problem 1748- Sum of Unique Elements  <br />
 Problem 1773- Count Items Matching a Rule <br />
+Problem 1779- Find Nearest Point That Has the Same X or Y Coordinate  <br />
 Problem 1816- Truncate Sentence <br />
 Problem 1827- Minimum Operations to Make the Array Increasing <br />
 Problem 1832- Check if the Sentence Is Pangram <br />

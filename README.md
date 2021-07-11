@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 186/1891
+Problem Solved - 187/1891
 
 Problem Index:
 
@@ -96,7 +96,8 @@ Problem 905 - Sort Array By Parity   <br />
 Problem 922 - Sort Array By Parity II  <br />
 Problem 929 - Unique Email Addresses    <br />
 Problem 938 - Range Sum of BST <br />
-Porblem 944 - Delete Columns to Make Sorted   <br />
+Problem 944 - Delete Columns to Make Sorted   <br />
+Problem 951 - Flip Equivalent Binary Trees  <br />
 Problem 961 - N-Repeated Element in Size 2N Array   <br />
 Problem 965 - Univalued Binary Tree <br />
 Problem 977 - Squares of a Sorted Array  <br />

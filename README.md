@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 192/1891
+Problem Solved - 193/1891
 
 Problem Index:
 
@@ -91,6 +91,7 @@ Problem 817 - Linked List Components <br />
 Problem 821 - Shortest Distance to a Character  <br />
 Problem 832 - Flipping an Image  <br />
 Problem 852 - Peak Index in a Mountain Array  <br />
+Problem 865 - Smallest Subtree with all the Deepest Nodes  <br />
 Problem 872 - Leaf-Similar Trees <br />
 Problem 876 - Middle of the Linked List <br />
 Problem 893 - Groups of Special-Equivalent Strings  <br />

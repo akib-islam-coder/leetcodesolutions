@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 191/1891
+Problem Solved - 192/1891
 
 Problem Index:
 
@@ -152,6 +152,7 @@ Problem 1365- How Many Numbers Are Smaller Than the Current Number <br />
 Problem 1367- Linked List in Binary Tree  <br />
 Problem 1379- Find a Corresponding Node of a Binary Tree in a Clone of That Tree  <br />
 Problem 1380- Lucky Numbers in a Matrix  <br />
+Problem 1385- Find the Distance Value Between Two Arrays  <br />
 Problem 1389- Create Target Array in a given order <br />
 Problem 1403- Minimum Subsequence in Non-Increasing Order  <br />
 Problem 1431- Kids With the Greatest Number of Candies <br />

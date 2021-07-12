@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 190/1891
+Problem Solved - 191/1891
 
 Problem Index:
 
@@ -51,6 +51,7 @@ Problem 236 - Lowest Common Ancestor of a Binary Tree   <br />
 Problem 237 - Delete Node in a Linked List <br />
 Problem 257 - Binary Tree Paths <br />
 Problem 328	- Odd Even Linked List <br />
+Problem 349 - Intersection of Two Arrays <br />
 Problem 404 - Sum of Left Leaves <br />
 Problem 424 - Longest Repeating Character Replacement	<br />
 Problem 429 - N-ary Tree Level Order Traversal  <br />

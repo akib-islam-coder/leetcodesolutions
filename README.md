@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 199/1891
+Problem Solved - 200/1891
 
 Problem Index:
 
@@ -207,4 +207,5 @@ Problem 1876- Substrings of Size Three with Distinct Characters  <br />
 Problem 1880- Check if Word Equals Summation of Two Words <br />
 Problem 1913- Maximum Product Difference Between Two Pairs  <br />
 Problem 1920- Build Array from Permutation  <br />
+Problem 1929- Concatenation of Array  <br />
 

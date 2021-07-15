@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 202/1891
+Problem Solved - 203/1891
 
 Problem Index:
 
@@ -201,6 +201,7 @@ Problem 1773- Count Items Matching a Rule <br />
 Problem 1779- Find Nearest Point That Has the Same X or Y Coordinate  <br />
 Problem 1800- Maximum Ascending Subarray Sum  <br />
 Problem 1816- Truncate Sentence <br />
+Problem 1822- Sign of the Product of an Array  <br />
 Problem 1827- Minimum Operations to Make the Array Increasing <br />
 Problem 1832- Check if the Sentence Is Pangram <br />
 Problem 1844- Replace All Digits with Characters <br />

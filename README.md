@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 203/1891
+Problem Solved - 204/1891
 
 Problem Index:
 
@@ -183,6 +183,7 @@ Problem 1582- Special Positions in a Binary Matrix  <br />
 Problem 1588- Sum of All Odd Length Subarrays  <br />
 Problem 1598- Crawler Log Folder  <br />
 Problem 1614- Maximum Nesting Depth of the Parentheses <br />
+Problem 1619- Mean of Array After Removing Some Elements  <br />
 Problem 1636- Sort Array by Increasing Frequency  <br />
 Problem 1662- Check If Two String Arrays are Equivalent <br />
 Problem 1669- Merge In Between Linked Lists <br />

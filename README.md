@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 209/1891
+Problem Solved - 210/1891
 
 Problem Index:
 
@@ -164,6 +164,7 @@ Problem 1380- Lucky Numbers in a Matrix  <br />
 Problem 1382- Balance a Binary Search Tree  <br />
 Problem 1385- Find the Distance Value Between Two Arrays  <br />
 Problem 1389- Create Target Array in a given order <br />
+Problem 1394- Find Lucky Integer in an Array  <br />
 Problem 1403- Minimum Subsequence in Non-Increasing Order  <br />
 Problem 1413- Minimum Value to Get Positive Step by Step Sum  <br />
 Problem 1431- Kids With the Greatest Number of Candies <br />

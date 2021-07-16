@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 208/1891
+Problem Solved - 209/1891
 
 Problem Index:
 
@@ -124,6 +124,7 @@ Problem 1022- Sum of Root to Leaf Binary Numbers <br />
 Problem 1026- Maximum Difference Between Node and Ancestor  <br />
 Problem 1030- Matrix Cells in Distance Order  <br />
 Problem 1038- Binary Search Tree to Greater Sum Tree  <br />
+Problem 1046- Last Stone Weight  <br />
 Problem 1047- Remove All Adjacent Duplicates In String  <br />
 Problem 1051- Height Checker  <br />
 Problem 1052- Grumpy Bookstore Owner <br />

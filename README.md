@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 214/1891
+Problem Solved - 215/1891
 
 Problem Index:
 
@@ -185,6 +185,7 @@ Problem 1491- Average Salary Excluding the Minimum and Maximum Salary  <br />
 Problem 1502- Can Make Arithmetic Progression From Sequence  <br />
 Problem 1512- Number of Good Pairs <br />
 Problem 1528- Shuffle String <br />
+Problem 1530- Number of Good Leaf Nodes Pairs  <br />
 Problem 1534- Count Good Triplets <br />
 Problem 1544- Make The String Great  <br />
 Problem 1550- Three Consecutive Odds  <br />

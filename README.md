@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 213/1891
+Problem Solved - 214/1891
 
 Problem Index:
 
@@ -21,6 +21,7 @@ Problem 27 – Remove Element <br />
 Problem 34 - Find First and Last Position of Element in Sorted Array  <br />
 Problem 35 - Search Insert Position <br />
 Problem 53 - Maximum Subarray  <br />
+Probelm 66 - Plus One  <br />
 Problem 83 - Remove Duplicates from Sorted List <br />
 Problem 86 - Partition List <br />
 Problem 88 - Merge Sorted Array  <br />

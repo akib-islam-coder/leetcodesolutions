@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 218/1891
+Problem Solved - 219/1891
 
 Problem Index:
 
@@ -109,6 +109,7 @@ Problem 893 - Groups of Special-Equivalent Strings  <br />
 Problem 897 - Increasing Order Search Tree   <br />
 Problem 905 - Sort Array By Parity   <br />
 Probelm 908 - Smallest Range I  <br />
+Problem 919 - Complete Binary Tree Inserter  <br />
 Problem 922 - Sort Array By Parity II  <br />
 Problem 929 - Unique Email Addresses    <br />
 Problem 938 - Range Sum of BST <br />

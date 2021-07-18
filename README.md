@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 216/1891
+Problem Solved - 217/1891
 
 Problem Index:
 
@@ -18,6 +18,7 @@ Problem 21 - Merge Two Sorted Lists <br />
 Problem 24 - Swap Nodes in Pairs <br />
 Problem 26 - Remove Duplicates from Sorted Array <br />
 Problem 27 – Remove Element <br /> 
+Problem 28 - Implement strStr()  <br /> 
 Problem 34 - Find First and Last Position of Element in Sorted Array  <br />
 Problem 35 - Search Insert Position <br />
 Problem 53 - Maximum Subarray  <br />

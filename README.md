@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 221/1891
+Problem Solved - 222/1891
 
 Problem Index:
 
@@ -92,6 +92,7 @@ Problem 700 - Search in a binary search tree <br />
 Problem 701 - Insert into a Binary Search Tree  <br />
 Problem 709 - To Lower Case <br />
 Problem 725 - Split LinkedList in Parts <br />
+Problem 766 - Toeplitz Matrix <br />
 Problem 771 - Jewels and Stones <br />
 Problem 783 - Minimum Distance Between BST Nodes   <br />
 Problem 804 - Unique Morse Code Words <br />

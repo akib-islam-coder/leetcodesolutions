@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 225/1891
+Problem Solved - 226/1891
 
 Problem Index:
 
@@ -28,6 +28,7 @@ Problem 86 - Partition List <br />
 Problem 88 - Merge Sorted Array  <br />
 Problem 92 - Reverse Linked List II	<br />
 Problem 94 - Binary Tree Inorder Traversal <br />
+Problem 98 - Validate Binary Search Tree <br />
 Problem 100 - Same Tree <br />
 Problem 101 - Symmetric Tree
 Problem 102 - Binary Tree Level Order Traversal <br />

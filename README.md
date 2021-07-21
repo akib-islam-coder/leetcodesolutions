@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 224/1891
+Problem Solved - 225/1891
 
 Problem Index:
 
@@ -120,6 +120,7 @@ Problem 929 - Unique Email Addresses    <br />
 Problem 938 - Range Sum of BST <br />
 Problem 944 - Delete Columns to Make Sorted   <br />
 Problem 951 - Flip Equivalent Binary Trees  <br />
+Problem 958 - Check Completeness of a Binary Tree  <br />
 Problem 961 - N-Repeated Element in Size 2N Array   <br />
 Problem 965 - Univalued Binary Tree <br />
 Problem 977 - Squares of a Sorted Array  <br />

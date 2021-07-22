@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 227/1891
+Problem Solved - 228/1891
 
 Problem Index:
 
@@ -93,6 +93,7 @@ Problem 682 - Baseball Game  <br />
 Problem 700 - Search in a binary search tree <br />
 Problem 701 - Insert into a Binary Search Tree  <br />
 Problem 705 - Design HashSet <br />
+Problem 706 - Design HashMap  <br />
 Problem 709 - To Lower Case <br />
 Problem 725 - Split LinkedList in Parts <br />
 Problem 766 - Toeplitz Matrix <br />

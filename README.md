@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 230/1891
+Problem Solved - 231/1891
 
 Problem Index:
 
@@ -128,6 +128,7 @@ Problem 961 - N-Repeated Element in Size 2N Array   <br />
 Problem 965 - Univalued Binary Tree <br />
 Problem 977 - Squares of a Sorted Array  <br />
 Problem 979 - Distribute Coins in Binary Tree  <br />
+Problem 985 - Sum of Even Numbers After Queries  <br />
 Problem 993 - Cousins in a binary tree <br />
 Problem 998 - Maximum Binary Tree II  <br />
 Problem 999 - Available Captures for Rook  <br />

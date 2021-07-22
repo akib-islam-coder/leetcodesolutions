@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 228/1891
+Problem Solved - 229/1891
 
 Problem Index:
 
@@ -78,6 +78,7 @@ Problem 543 - Diameter of Binary Tree <br />
 Problem 559 - Maximum Depth of N-ary Tree <br />
 Problem 561 - Array Partition I  <br />
 Problem 563 - Binary Tree Tilt  <br />
+Problem 566 - Reshape the Matrix  <br />
 Problem 572 - Subtree of Another Tree <br />
 Problem 575 - Distribute Candies <br />
 Problem 589 - N-ary Tree Preorder Traversal <br />

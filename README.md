@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 233/1891
+Problem Solved - 234/1891
 
 Problem Index:
 
@@ -214,6 +214,7 @@ Problem 1608- Special Array With X Elements Greater Than or Equal X  <br />
 Problem 1614- Maximum Nesting Depth of the Parentheses <br />
 Problem 1619- Mean of Array After Removing Some Elements  <br />
 Problem 1636- Sort Array by Increasing Frequency  <br />
+Problem 1652- Defuse the Bomb <br />
 Problem 1662- Check If Two String Arrays are Equivalent <br />
 Problem 1669- Merge In Between Linked Lists <br />
 Problem 1670- Design Front Middle Back Queue <br />

@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 237/1891
+Problem Solved - 238/1891
 
 Problem Index:
 
@@ -163,6 +163,7 @@ Problem 1260- Shift 2D Grid <br />
 Problem 1261- Find Elements in a Contaminated Binary Tree   <br />
 Problem 1266- Minimum Time Visiting All Points  <br />
 Problem 1281- Subtract the Product and Sum of Digits of an Integer <br />
+Problem 1287- Element Appearing More Than 25% In Sorted Array  <br />
 Problem 1290- Convert Binary Number in a Linked List to Integer <br />
 Problem 1295- Find Numbers with Even Number of Digits  <br />
 Problem 1299- Replace Elements with Greatest Element on Right Side  <br />

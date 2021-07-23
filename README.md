@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 234/1891
+Problem Solved - 235/1891
 
 Problem Index:
 
@@ -172,7 +172,8 @@ Problem 1309- Decrypt String from Alphabet to Integer Mapping <br />
 Problem 1313- Decompress Run-Length Encoded List <br />
 Problem 1315- Sum of Nodes with Even-Valued Grandparent <br />
 Problem 1325- Delete Leaves With a Given Value  <br />
-Problem 1337- The K Weakest Rows in a Matrix  <br />
+Problem 1337- The K Weakest Rows in a Matrix  <br /> 
+Problem 1339- Maximum Product of Splitted Binary Tree  <br />
 Problem 1342- Number of steps to reduce a number to zero <br />
 Problem 1351- Count Negative Numbers in a Sorted Matrix  <br />
 Problem 1356- Sort Integers by The Number of 1 Bits <br />

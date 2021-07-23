@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 232/1891
+Problem Solved - 233/1891
 
 Problem Index:
 
@@ -158,6 +158,7 @@ Problem 1207- Unique Number of Occurrences  <br />
 Problem 1217- Minimum Cost to Move Chips to The Same Position  <br />
 Problem 1221- Split a string in balanced strings  <br />
 Problem 1252- Cells with Odd Values in a Matrix  <br />
+Problem 1260- Shift 2D Grid <br />
 Problem 1261- Find Elements in a Contaminated Binary Tree   <br />
 Problem 1266- Minimum Time Visiting All Points  <br />
 Problem 1281- Subtract the Product and Sum of Digits of an Integer <br />

@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 231/1891
+Problem Solved - 232/1891
 
 Problem Index:
 
@@ -110,6 +110,7 @@ Problem 832 - Flipping an Image  <br />
 Problem 852 - Peak Index in a Mountain Array  <br />
 Problem 863 - All Nodes Distance K in Binary Tree  <br />
 Problem 865 - Smallest Subtree with all the Deepest Nodes  <br />
+Problem 867 - Transpose Matrix  <br />
 Problem 872 - Leaf-Similar Trees <br />
 Problem 876 - Middle of the Linked List <br />
 Problem 883 - Projection Area of 3D Shapes  <br />

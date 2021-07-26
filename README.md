@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 240/1891
+Problem Solved - 241/1891
 
 Problem Index:
 
@@ -38,6 +38,7 @@ Problem 110 - Balanced Binary Tree <br />
 Problem 111 - Minimum Depth of Binary Tree <br />
 Problem 112 - Path Sum <br />
 Problem 113 - Path Sum II <br />
+Problem 117 - Populating Next Right Pointers in Each Node II  <br />
 Problem 122 - Best Time to Buy and Sell Stock II  <br />
 Problem 125 - Valid Palindrome <br />
 Problem 129 - Sum Root to Leaf Numbers <br />

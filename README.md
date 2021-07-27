@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 245/1891
+Problem Solved - 246/1891
 
 Problem Index:
 
@@ -121,6 +121,7 @@ Problem 876 - Middle of the Linked List <br />
 Problem 883 - Projection Area of 3D Shapes  <br />
 Problem 888 - Fair Candy Swap  <br />
 Problem 893 - Groups of Special-Equivalent Strings  <br />
+Problem 896 - Monotonic Array  <br />
 Problem 897 - Increasing Order Search Tree   <br />
 Problem 905 - Sort Array By Parity   <br />
 Probelm 908 - Smallest Range I  <br />

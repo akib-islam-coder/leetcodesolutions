@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 248/1891
+Problem Solved - 249/1891
 
 Problem Index:
 
@@ -250,6 +250,7 @@ Problem 1827- Minimum Operations to Make the Array Increasing <br />
 Problem 1832- Check if the Sentence Is Pangram <br />
 Problem 1844- Replace All Digits with Characters <br />
 Problem 1848- Minimum Distance to the Target Element  <br />
+Problem 1854- Maximum Population Year  <br />
 Problem 1859- Sorting the Sentence <br />
 Problem 1876- Substrings of Size Three with Distinct Characters  <br />
 Problem 1880- Check if Word Equals Summation of Two Words <br />

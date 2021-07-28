@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 247/1891
+Problem Solved - 248/1891
 
 Problem Index:
 
@@ -217,6 +217,7 @@ Problem 1530- Number of Good Leaf Nodes Pairs  <br />
 Problem 1534- Count Good Triplets <br />
 Problem 1544- Make The String Great  <br />
 Problem 1550- Three Consecutive Odds  <br />
+Problem 1560- Most Visited Sector in a Circular Track  <br />
 Problem 1572- Matrix Diagonal Sum  <br />
 Problem 1582- Special Positions in a Binary Matrix  <br />
 Problem 1588- Sum of All Odd Length Subarrays  <br />

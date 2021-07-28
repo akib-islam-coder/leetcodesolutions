@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 252/1891
+Problem Solved - 253/1891
 
 Problem Index:
 
@@ -50,6 +50,7 @@ Problem 144 - Binary Tree Preorder Traversal <br />
 Problem 145 - Binary Tree Postorder Traversal <br />
 Problem 155 - Min Stack  <br />
 Problem 160 - Intersection of Two Linked Lists <br />
+Problem 167 - Two Sum II - Input array is sorted <br />
 Problem 169 - Majority Element  <br />
 Problem 173 - Binary Search Tree Iterator  <br />
 Problem 199 - Binary Tree Right Side View <br />

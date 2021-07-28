@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 246/1891
+Problem Solved - 247/1891
 
 Problem Index:
 
@@ -55,6 +55,7 @@ Problem 173 - Binary Search Tree Iterator  <br />
 Problem 199 - Binary Tree Right Side View <br />
 Problem 203 - Remove Linked List Elements <br />
 Problem 206 - Reverse Linked List <br />
+Problem 217 - Contains Duplicate <br />
 Problem 226 - Invert Binary Tree <br />
 Problem 234 - Palindrome Linked List <br />
 Problem 235 - Lowest Common Ancestor of a Binary Search Tree   <br />

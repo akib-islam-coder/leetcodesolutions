@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 255/1891
+Problem Solved - 256/1891
 
 Problem Index:
 
@@ -101,6 +101,7 @@ Problem 653 - Two Sum IV - Input is a BST  <br />
 Problem 654. Maximum Binary Tree   <br />
 Problem 671 - Second Minimum Node In a Binary Tree <br />
 Problem 682 - Baseball Game  <br />
+Problem 697 - Degree of an Array  <br />
 Problem 700 - Search in a binary search tree <br />
 Problem 701 - Insert into a Binary Search Tree  <br />
 Problem 704 - Binary Search <br />

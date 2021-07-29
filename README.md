@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 256/1891
+Problem Solved - 257/1891
 
 Problem Index:
 
@@ -234,6 +234,7 @@ Problem 1614- Maximum Nesting Depth of the Parentheses <br />
 Problem 1619- Mean of Array After Removing Some Elements  <br />
 Problem 1629- Slowest Key <br />
 Problem 1636- Sort Array by Increasing Frequency  <br />
+Problem 1640- Check Array Formation Through Concatenation  <br />
 Problem 1652- Defuse the Bomb <br />
 Problem 1662- Check If Two String Arrays are Equivalent <br />
 Problem 1669- Merge In Between Linked Lists <br />

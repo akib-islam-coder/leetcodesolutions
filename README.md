@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 254/1891
+Problem Solved - 255/1891
 
 Problem Index:
 
@@ -75,6 +75,7 @@ Problem 445 - Add Two Numbers II <br />
 Problem 448 - Find All Numbers Disappeared in an Array  <br />
 Problem 450 - Delete Node in a BST  <br />
 Problem 463 - Island Perimeter <br />
+Problem 495 - Teemo Attacking  <br />
 Problem 496 - Next Greater Element I  <br />
 Problem 500 - Keyboard Row  <br />
 Problem 501 - Find Mode in Binary Search Tree  <br />

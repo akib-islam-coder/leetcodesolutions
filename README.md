@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 262/1891
+Problem Solved - 263/1891
 
 Problem Index:
 
@@ -69,6 +69,7 @@ Problem 268 - Missing Number <br />
 Problem 283 - Move Zeroes <br />
 Problem 328	- Odd Even Linked List <br />
 Problem 349 - Intersection of Two Arrays <br />
+Problem 350 - Intersection of Two Arrays II <br />
 Problem 404 - Sum of Left Leaves <br />
 Problem 424 - Longest Repeating Character Replacement	<br />
 Problem 429 - N-ary Tree Level Order Traversal  <br />

@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 265/1891
+Problem Solved - 266/1891
 
 Problem Index:
 
@@ -98,6 +98,7 @@ Problem 572 - Subtree of Another Tree <br />
 Problem 575 - Distribute Candies <br />
 Problem 589 - N-ary Tree Preorder Traversal <br />
 Problem 590 - N-ary Tree Postorder Traversal <br />
+Problem 599 - Minimum Index Sum of Two Lists <br />
 Problem 606 - Construct String from Binary Tree  <br />
 Problem 617 - Merge Two Binary Trees <br />
 Problem 637 - Average of Levels in Binary Tree <br />

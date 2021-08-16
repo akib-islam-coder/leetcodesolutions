@@ -3,7 +3,7 @@ This repository will contain solutions of leetcode problems in C language.
 
 Leetcode Profile - https://leetcode.com/akibislam/
 
-Problem Solved - 268/1891
+Problem Solved - 269/1891
 
 Problem Index:
 
@@ -85,6 +85,7 @@ Problem 495 - Teemo Attacking  <br />
 Problem 496 - Next Greater Element I  <br />
 Problem 500 - Keyboard Row  <br />
 Problem 501 - Find Mode in Binary Search Tree  <br />
+Problem 506 - Relative Ranks <br />
 Problem 508 - Most Frequent Subtree Sum  <br />
 Problem 513 - Find Bottom Left Tree Value  <br />
 Problem 515 - Find Largest Value in Each Tree Row  <br />
